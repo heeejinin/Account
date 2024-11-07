@@ -7,11 +7,9 @@
 - **Language** : Java
 - **Build** : Gradle
 - **JDK** : JDK 1.8
-- **IDE** : IntelliJ Community Version
-- **Testing** : JUnit5, Mockito
-- **Database** : H2 Database, JPA
+- **Database** : H2 Database
+- **Library** : JUnit5, Mockito, Lombok, JPA
 - **Cache** : Redis, RedisEmbedded
-- **Utilities** : Lombok
   
 
 ## 📚 프로젝트 개요
